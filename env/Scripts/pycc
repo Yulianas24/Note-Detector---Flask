@@ -1,0 +1,3 @@
+#!C:\Users\hp\Music\Note Detector - Flask\env\Scripts\python.exe
+from numba.pycc import main
+main()
